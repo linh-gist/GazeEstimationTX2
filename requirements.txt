@@ -1,0 +1,13 @@
+opencv_python
+numpy
+torch
+torchvision
+dlib
+imutils
+yacs
+pandas==0.24.2
+scipy==1.0.0
+hdf5storage
+eos-py
+vext
+vext.gi
