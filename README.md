@@ -1,6 +1,9 @@
 > [**Optimal Camera Position for a Practical Application of Gaze Estimation on Edge Devices**](),            
 > Linh Van Ma, Tin Trung Tran, Moongu Jeon
 
+## Gaze Estimation, Jetson Board Tx2, Realsense d435i Camera
+![Demo](gaze_estimation_tx2.gif)
+
 ## How to run?
 If you want to finetune this deep learning model. You first need to collect your dataset.
 You need to look at the center of each rectangle (36 rectangles). 
