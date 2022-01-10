@@ -2,7 +2,7 @@
 > Linh Van Ma, Tin Trung Tran, Moongu Jeon, 
 > ICAIIC 2022 (The 4th International Conference on Artificial Intelligence in Information and Communication February 21 (Mon.) ~ 24 (Thur.), 2022, Guam, USA & Virtual Conference)
 
-## Gaze Estimation, Jetson Board Tx2, Realsense d435i Camera
+## Gaze Estimation, Jetson Board Tx2, Realsense d435i Camera, [**Demo Video**](https://www.youtube.com/watch?v=MQMyQXbKOdo)
 ![Demo](gaze_estimation_tx2.gif)
 
 ## How to run?
