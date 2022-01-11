@@ -1,4 +1,4 @@
-> [**Optimal Camera Position for a Practical Application of Gaze Estimation on Edge Devices**](),            
+> [**Optimal Camera Position for a Practical Application of Gaze Estimation on Edge Devices**](https://arxiv.org/abs/2201.02946),            
 > Linh Van Ma, Tin Trung Tran, Moongu Jeon, 
 > ICAIIC 2022 (The 4th International Conference on Artificial Intelligence in Information and Communication February 21 (Mon.) ~ 24 (Thur.), 2022, Guam, USA & Virtual Conference)
 
